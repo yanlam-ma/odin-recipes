@@ -1,0 +1,15 @@
+* {
+    font-family: Helvetica, sans-serif;
+}
+
+img {
+    margin: 20px auto; 
+    display: block;
+}
+
+.steps,
+.ingredients,
+.description {
+    background-color: lightblue;
+    padding: 0px 20px;
+}
